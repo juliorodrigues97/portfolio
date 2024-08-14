@@ -1,5 +1,5 @@
 title: Julio Rodrigues
 #logo: /assets/img/imagepath.png
-#description: text below image
-#show_downloads: True
+description: text below image
+#show_downloads: true
 theme: jekyll-theme-minimal
