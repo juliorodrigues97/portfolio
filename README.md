@@ -6,7 +6,7 @@
     height: 150px;
   }
 </style>
-<img src="assets/logo.png" alt="Logo" class="circular-logo">
+<img src="assets/placeholder.txt" alt="Logo" class="circular-logo">
 
 
 # Data Analyst
