@@ -1,3 +1,5 @@
+![Logo](https://github.com/juliorodrigues97/portfolio/blob/main/assets/000095900004.jpg?raw=true)
+
 # Data Analyst
 
 ### Education
