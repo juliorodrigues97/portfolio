@@ -1,3 +1,6 @@
+<img src="" alt="Logo" style="border-radius: 50%; width: 150px; height: 150px;">
+
+
 # Data Analyst
 
 ### Education
