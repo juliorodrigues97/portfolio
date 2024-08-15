@@ -1,6 +1,5 @@
 title: Julio Rodrigues
-logo: /assets/000095900004.jpg
-logo: <img src="" alt="Profile Logo" style="border-radius: 50%; width: 150px;">
+logo: <img src="https://github.com/juliorodrigues97/portfolio/blob/main/assets/000095900004.jpg?raw=true" alt="Profile Logo" style="border-radius: 50%; width: 150px;">
 description: Data Analyst
 #show_downloads: true
 theme: jekyll-theme-minimal
