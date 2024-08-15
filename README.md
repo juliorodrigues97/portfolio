@@ -6,7 +6,7 @@
     height: 150px;
   }
 </style>
-<img src="000095900004.jpg" alt="Logo" class="circular-logo">
+<img src="https://github.com/juliorodrigues97/portfolio/blob/main/assets/000095900004.jpg?raw=true" alt="Logo" class="circular-logo">
 
 
 # Data Analyst
