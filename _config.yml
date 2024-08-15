@@ -3,3 +3,4 @@ logo: <img src="000095900004.jpg" alt="Profile Logo" style="border-radius: 50%; 
 description: Data Analyst
 #show_downloads: true
 theme: jekyll-theme-minimal
+css: assets/css/styles.css
