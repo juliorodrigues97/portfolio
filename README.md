@@ -1,3 +1,6 @@
+<img src="URL_DA_IMAGEM" alt="Logo" style="border-radius: 50%; width: 200px; height: 200px;">
+
+
 # Data Analyst
 
 ### Education
