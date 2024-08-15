@@ -1,14 +1,3 @@
-<img src="https://github.com/juliorodrigues97/portfolio/blob/main/assets/000095900004.jpg?raw=true" alt="Logo" style="border-radius: 50%; width: 150px; height: 150px;">
-<style>
-  .circular-logo {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-  }
-</style>
-<img src="https://github.com/juliorodrigues97/portfolio/blob/main/assets/000095900004.jpg?raw=true" alt="Logo" class="circular-logo">
-
-
 # Data Analyst
 
 ### Education
