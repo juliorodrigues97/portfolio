@@ -1,7 +1,16 @@
 title: Julio Rodrigues
-logo: assets/imageedit_1_6695009006.png
-description: Data Analyst | SQL, Python, R, Power BI, Tableau
-#show_downloads: true
-theme: jekyll-theme-minimal
-css: assets/css/styles.css
-markdown: kramdown
+email: juliorodriguesfe@hotmail.com
+description: >-
+Data Analyst | SQL, Python, R, Power BI, Tableau
+Turning data into actionable insights.
+
+
+baseurl: ""
+url: "https://portfolio.github.io"
+
+
+theme: minima
+
+
+linkedin_username: https://www.linkedin.com/in/julio-cesar-rodrigues/
+github_username: https://github.com/juliorodrigues97
