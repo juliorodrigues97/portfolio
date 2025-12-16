@@ -20,8 +20,8 @@ R · Tableau · Data Cleaning · Data Visualization · Storytelling
 - Temporal trends (weekdays vs weekends, seasonality)  
 - Behavioral indicators that suggest conversion opportunities  
 
-**Outcome**
-The analysis provides data-driven insights that help inform marketing decisions and support long-term revenue growth through increased customer retention.
+**Outcome**  
+This analysis translates rider behavior and usage patterns into evidence-based insights, supporting marketing decisions aimed at increasing annual membership conversion and long-term customer retention.
 
 
 🔗 **Repository:**  
