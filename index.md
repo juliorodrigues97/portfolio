@@ -5,8 +5,7 @@ layout: home
 
 ## Hi, I'm Julio 👋
 
-
-I'm a Data Analyst with a background in Production Engineering, currently transitioning into data analytics. I enjoy transforming raw data into clear, actionable insights that support business decisions.
+I'm a Data Analyst with a background in Production Engineering and experience in analytical problem-solving. Currently transitioning into data analytics, I focus on transforming data into clear, actionable insights that support business decision-making and strategic planning.
 
 
 ### 🔍 Skills
