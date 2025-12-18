@@ -3231,7 +3231,7 @@ input, select, textarea {
 }
 
 .logo-row img {
-    height: 45px;   /* controla o tamanho */
+    height: 25px;   /* controla o tamanho */
     width: auto;
     opacity: 0.9;
     transition: transform 0.2s ease;
