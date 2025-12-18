@@ -3219,3 +3219,25 @@ input, select, textarea {
 			}
 
 	}
+
+/* === Custom Sections: Background & Tools === */
+
+.logo-grid {
+  display: flex;
+  flex-wrap: nowrap;          /* força uma única linha */
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  overflow-x: auto;           /* permite rolagem se faltar espaço */
+}
+
+.logo-grid img {
+  height: 45px;               /* tamanho ideal para caber tudo */
+  width: auto;
+  opacity: 0.85;
+  transition: opacity 0.2s ease;
+}
+
+.logo-grid img:hover {
+  opacity: 1;
+}
