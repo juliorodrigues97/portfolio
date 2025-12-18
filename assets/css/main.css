@@ -3220,24 +3220,23 @@ input, select, textarea {
 
 	}
 
-/* === Custom Sections: Background & Tools === */
-
-.logo-grid {
-  display: flex;
-  flex-wrap: nowrap;          /* força uma única linha */
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
-  overflow-x: auto;           /* permite rolagem se faltar espaço */
+/* Logos em linha (Background e Tools) */
+.logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
 }
 
-.logo-grid img {
-  height: 45px;               /* tamanho ideal para caber tudo */
-  width: auto;
-  opacity: 0.85;
-  transition: opacity 0.2s ease;
+.logo-row img {
+    height: 45px;   /* controla o tamanho */
+    width: auto;
+    opacity: 0.9;
+    transition: transform 0.2s ease;
 }
 
-.logo-grid img:hover {
-  opacity: 1;
+.logo-row img:hover {
+    transform: scale(1.1);
 }
